@@ -21,7 +21,7 @@ To start project use command
 ### Websit Link : [CCIT ] 
 
 ### Project screen short :
-https://images.pexels.com/photos/36519745/pexels-photo-36519745.jpeg
+![Project screen short](https://images.pexels.com/photos/36519745/pexels-photo-36519745.jpeg)
 
 ### First command
  To Start project using 'git init' command
