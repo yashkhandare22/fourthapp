@@ -13,3 +13,7 @@
 -ScreenShort
 -code
 -conclusion
+
+###How to start
+To start project use command
+git init start fourth-project
