@@ -14,6 +14,6 @@
 -code
 -conclusion
 
-###How to start
+### How to start
 To start project use command
 git init start fourth-project
